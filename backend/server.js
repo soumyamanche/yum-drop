@@ -26,5 +26,5 @@ app.get("/api/menu", async (req, res) => {
 });
 
 app.listen(3001, () => {
-  console.log("✅ Proxy server running on port 3001");
+  console.log("Proxy server running on port 3001");
 });
